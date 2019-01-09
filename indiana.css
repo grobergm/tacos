@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-image: url("indiana.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 75px;
+  color: #e6b800;
+  text-shadow: 2px 1px #ffffff;
+}
+
+h2{
+  font-size: 35px;
+  color: #e6b800;
+  text-shadow: 2px 1px #ffffff;
+}
+p{
+  font-size: 22px;
+  color: #e6b800;
+  text-shadow: 1px 1px #ffffff;
+}
+
+ul{
+  font-size: 27px;
+  color: #e6b800;
+  text-shadow: 2px 1px #ffffff;
+  list-style-type: none;
+  text-align: center;
+
+}
+a{
+  color: #e6b800;
+}
+
+.blueSaus{
+  background-color: rgba(0, 38, 153, .5);
+}
